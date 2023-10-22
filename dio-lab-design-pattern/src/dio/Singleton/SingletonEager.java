@@ -1,4 +1,4 @@
-package dio.Singleton;
+package dio.singleton;
 
 public class SingletonEager {
     
